@@ -6,6 +6,9 @@
 # clone repository
 $ git clone <repository url>
 $ git status -> to check file status
+$ git add . or <file path you wanna commit>
+$ git commit -m "commit message"
+$ git push -> send commit to github server
 
 ```
 
